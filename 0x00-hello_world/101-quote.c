@@ -5,7 +5,6 @@
  * main - A c program that prints a line to the standard error
  *
  * Return: always  1 (Success)
- *
  */
 int main(void)
 {
